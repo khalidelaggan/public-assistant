@@ -1,0 +1,2 @@
+QueryIntent I want to go to {destination}
+QueryIntent I wanna go to {destination}

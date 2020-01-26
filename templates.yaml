@@ -1,0 +1,5 @@
+welcome: Where would you like to go?
+
+route: Hello. {{ directions }}. Travel distance of {{ distance }} for {{ duration }}
+
+already-there: Well, {{ already_there_message }}

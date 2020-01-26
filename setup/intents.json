@@ -1,0 +1,9 @@
+{
+    "intents": [{
+        "intent": "QueryIntent",
+        "slots": [{
+            "name": "destination",
+            "type": "LIST_OF_LOCATIONS"
+        }]
+    }]
+}
